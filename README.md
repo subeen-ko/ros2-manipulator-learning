@@ -138,3 +138,12 @@ This is a personal, course-based learning log. It documents hands-on setup, trou
 - [ROBOTIS upstream repository](https://github.com/ROBOTIS-GIT/open_manipulator)
 - [ROS 2 Jazzy documentation](https://docs.ros.org/en/jazzy/)
 - [Gazebo documentation](https://gazebosim.org/docs/)
+
+## 코드 저장소 / Code Repository
+
+- [개인 실습 Fork / Personal experiment fork](https://github.com/subeen-ko/open_manipulator)
+- [원본 / Upstream](https://github.com/ROBOTIS-GIT/open_manipulator)
+
+이 저장소는 포트폴리오 설명과 실습 결과를, Fork는 로봇 소스의 변경 이력을 관리합니다. 현재 로컬 소스에서 변경 사항이 없음을 확인했습니다. Fork 생성은 PC 파일의 자동 동기화를 의미하지 않습니다.
+
+This repository holds the portfolio narrative and exercise results; the fork tracks changes to the robot source. The local source was reported clean at the initial check. Creating a fork does not automatically synchronize files from the local PC.
